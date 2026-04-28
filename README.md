@@ -1,6 +1,6 @@
 # All Restaurants in South Fulton, Georgia, US
 
-> Free BeamStation sample export with 14 rows and masked direct-contact fields.
+> Free BeamStation sample export with 18 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `942228` |
 | Location | South Fulton |
 | Category | Restaurants |
-| Full dataset size | 140 records |
-| Free sample size | 14 records (10.0%) |
-| Last export | 2026-04-21T11:33:52.097391+00:00 |
+| Full dataset size | 181 records |
+| Free sample size | 18 records (9.94%) |
+| Last export | 2026-04-28T12:20:27.443218+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-south-fulton-georgia-us-sample-942228/releases/download/sample-latest/beamstation_942228_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
