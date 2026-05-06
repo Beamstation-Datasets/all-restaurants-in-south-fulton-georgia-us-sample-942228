@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c17cdfbf-ca2b-4d10-9ced-35d7fb141f35",
+  "export_job_id": "39bf50ef-f2b4-4722-8b55-0c09bcf9293e",
   "id_short": 942228,
-  "published_at": "2026-04-28T19:59:50Z",
+  "published_at": "2026-05-06T07:19:15Z",
   "repo_name": "all-restaurants-in-south-fulton-georgia-us-sample-942228",
   "sample_asset_name": "beamstation_942228_restaurants-us-ga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/942228/beamstation_942228_restaurants-us-ga_SAMPLE_DIST.csv",
-  "sample_records": 18,
-  "sample_sha256": "c2bf34ec491d471c9b9da9e25270e9c077fc6047f2f5bee3424d4b4cd4548247",
-  "sample_size_bytes": 74334,
-  "total_records": 181
+  "sample_records": 20,
+  "sample_sha256": "62176714443ece44bb3a912e036872d7bc09be0ae9893c000f3a0facbffdbb14",
+  "sample_size_bytes": 81047,
+  "total_records": 202
 }
